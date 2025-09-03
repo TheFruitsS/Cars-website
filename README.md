@@ -24,9 +24,10 @@ This project is a dynamic and customizable frontend for a car mechanic website. 
 
 ## Preview
 
-![Preview](https://imgur.com/a/neJNxmR)
+![Preview] (https://imgur.com/a/neJNxmR)
 
 ## License
 
 This project is open-source and available under the [Apache License 2.0](LICENSE).
+
 
